@@ -1,0 +1,126 @@
+SELECT * FROM kms.`kms sql case study`;
+
+#TOTAL SALES BY CATEGORY
+SELECT `Product Category`, SUM(Sales) AS  `Total sales`
+FROM `kms sql case study`
+GROUP BY `Product Category`
+ORDER BY `Total sales` DESC
+LIMIT 1;
+
+#TOP 3
+SELECT Region, SUM(Sales) AS `Total sales`
+FROM `kms sql case study`
+GROUP BY Region
+ORDER BY `Total sales` ASC
+LIMIT 3;
+#BOTTOM 3
+SELECT Region, SUM(Sales) AS `Total sales`
+FROM `kms sql case study`
+GROUP BY Region
+ORDER BY `Total sales` DESC
+LIMIT 3;
+
+
+#TOTAL SALES OF APPLIANCES IN ONTARIO
+SELECT SUM(Sales) AS `Total Appliance Sales`
+FROM `kms sql case study`
+WHERE `Product Category`="Appliances" 
+AND Region="Ontario";
+
+#ADVICE ON TEN BOTTOM CUSTOMERS
+SELECT`Customer Name`,SUM(Sales) as Total_Sales
+FROM `kms sql case study`
+GROUP BY `Customer Name`
+ORDER BY Total_Sales DESC
+LIMIT 10;
+
+#Promote and offer discounts plus bonuses on targeted sales
+#Reach out through emails or other channels
+
+
+#SHIPPING METHOD WITH MOST SHIPPING COST
+SELECT `Ship Mode`, SUM(`Shipping cost`) as Total_Shipping_cost
+FROM `kms sql case study`
+GROUP BY `Ship Mode`
+ORDER BY Total_shipping_Cost
+LIMIT 1;
+
+
+SELECT `Order Quantity`,`Customer Name`, SUM(Sales) AS TotalSales, GROUP_CONCAT(DISTINCT `Product Name`) AS Products
+FROM `kms sql case study`
+GROUP BY `Order Quantity`,`Customer Name`
+ORDER BY TotalSales DESC
+LIMIT 10;
+
+#SMALL BUSINESS OWNER WITH HIGHEST SALES 
+SELECT`Customer Name`, SUM(Sales) AS TotalSales
+FROM `kms sql case study`
+WHERE `Customer Segment` = 'Small Business'
+GROUP BY `Customer Name`
+ORDER BY TotalSales DESC
+LIMIT 1;
+
+SELECT MAX(Sales)
+FROM `kms sql case study`
+WHERE `Customer Segment` = 'Small Business';
+
+SELECT *
+FROM `kms sql case study`
+WHERE `Customer Segment` = 'Small Business' AND Sales='33367.85';
+
+# CORPORATE CUSTOMERS WITH MOST SALES (2009-2012)
+SELECT `Customer Name`, COUNT(DISTINCT`Order Quantity`) AS NumOrders
+FROM `kms sql case study`
+WHERE `Customer Segment`= 'Corporate' AND STR_TO_DATE(`Order Date`, '%d/%m/%Y') BETWEEN '2009-01-01' AND '2012-12-31'
+GROUP BY `Customer Name`
+ORDER BY NumOrders DESC;
+
+SELECT DISTINCT SUBSTRING_INDEX(`Order Date`, '/', -1) AS YearExtracted
+FROM `kms sql case study`
+ORDER BY YearExtracted;
+
+SELECT `Customer Name`, `Order Date`, `Customer Segment`
+FROM `kms sql case study`
+WHERE `Customer Segment`= 'Corporate'
+LIMIT 50;
+
+
+---
+
+#MOST PROFITABLE CUSTOMER CONSUMER
+SELECT `Row ID`,  `Customer Name`, SUM(Profit) AS TotalProfit
+FROM `kms sql case study`
+WHERE `Customer Segment`= "Consumer"
+GROUP BY `Row ID`,  `Customer Name`
+ORDER BY TotalProfit DESC
+LIMIT 1;
+
+#CUSTOMERS WHO RETURNED THEIR ITEMS AND THEIR SEGMENTS 
+#No Returned column was given, so we choose to go with the negative profits
+SELECT DISTINCT `Customer Name`, `Customer Segment`
+FROM `kms sql case study`
+WHERE profit < 0;
+
+
+# DID SHIPPING COST ALIGN WITH ORDER PRIORITY?
+
+SELECT `Order Priority`, `Ship Mode`, AVG(`Shipping Cost`) AS AvgShippingCost, COUNT(`Order ID`) AS NumOrders
+FROM `kms sql case study`
+GROUP BY  `Order Priority`, `Ship Mode`
+ORDER BY NumOrders, AvgShippingCost DESC;
+
+
+# Explanation:
+#You expect Express Air to appear more in High or Critical priority orders.
+#You expect Delivery Truck to appear more in Low or Medium priority.
+#If that’s not the case, then the company may not be appropriately spending on
+
+
+
+
+
+
+
+
+
+
