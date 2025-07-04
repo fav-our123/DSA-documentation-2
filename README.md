@@ -57,7 +57,7 @@ purchase?
 - If that’s not the case, then the company may not be appropriately spending on
 
 ##### CODE
-[CLICK HERE](
+[CLICK HERE](https://github.com/fav-our123/DSA-documentation-2/blob/main/KMS%20SQL%20CASE%20STUDY)
 
 ##### Limitations
 - Customers were not segmented by behavior, geography, or frequency. A deeper segmentation could have revealed more actionable insights.
