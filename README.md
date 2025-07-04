@@ -2,9 +2,9 @@
 This is where I built my portfolio while taking the Data Analytics course with the Incubator hub in conjunction with DSA. Starting out as a self learner, this program helped to hone my skills, ranging from Ms-Excel to Power BI.
 ## PROJECT TOPIC 1: KULTRA MEGA STORES INVENTORY 
 ### PROJECT OVERVIEW
-This Data Analysis Project seeks to provide key findings ans insights to Kuktra Mega Stores. Using mySQL, I analysed order and customer details to generate answers that guides product improvement, marketing strategies, and customer engagement. Using the various parameters of the data, I answered several questions and plotted pivot tables. The cleaned datasets and pivot outputs were used to build an all emcompassing dasboard to aid visualization.
+This Data Analysis Project seeks to provide key findings and insights for Kuktra Mega Stores between the year 2009 and 2012. Using mySQL, I analysed order and customer details to generate answers that guide customer engagement and order improvement, marketing strategies, and advice. This was done via SQL statements. 
 #### DATA SOURCES
-The dataset, as provided by DSA, contains information scraped from Amazon product pages, including order details and customer preferences, with each row representing a unique product. The total records numbered 1,465 rows with 16 coulumns.
+The dataset, as provided by DSA, contains information from Kuktra Mega Stores, including order details and customer preferences, with each row representing a unique product. The total records numbered 8,065 rows and 21 rows.
 ##### TOOL USED 
 - MySQL for:
 - Data manipulation
@@ -30,20 +30,28 @@ BOTTOM 3
    - Reach out through emails or other channels.
 5. KMS incurred the most shipping cost using which shipping method?
 - Express Air- 7368.1399999999685
-9. What is the distribution of product ratings (e.g., how many products are rated 3.0,
-4.0, etc.)?
-10. What is the total potential revenue (actual_price × rating_count) by category?
-11. What is the number of unique products per price range bucket (e.g., <$200, $200-$500, >$500)
-12. How does the rating relate to the level of discount?
-13. How many products have fewer than 1,000 reviews?
-14. Which categories have products with the highest discounts?
-15. Identify the top 5 products in terms of rating and number of reviews combined.
+##### Case Scenario II
+6. Who are the most valuable customers, and what products or services do they typically
+purchase?
+- 
+7. Which small business customer had the highest sales?
+- Dennis Kane- 74298.54049999999
+8. Which Corporate Customer placed the most number of orders in 2009 – 2012?
+- 
+11. Which consumer customer was the most profitable one?
+- Emily Phan- 27220.69
+12. Which customer returned items, and what segment do they belong to?
+- No Return Column, so used the negative profits from the profit column
+- 
+13. If the delivery truck is the most economical but the slowest shipping method and
+Express Air is the fastest but the most expensive one, do you think the company
+appropriately spent shipping costs based on the Order Priority? Explain your answer
+- You expect Express Air to appear more in Higher or Critical Priority Orders
+- You expect Delivery Truck to appear more in Low or Medium priority
+- If that's not the case, then the company may not be appropriately spending.
 
-[Click here to view the cleaned dataset and the pivot tables of the above](https://github.com/fav-our123/DSA-documentation/raw/refs/heads/main/Amazon%20case%20study%20(Autosaved)%20(Recovered).xlsx)
+###### CODE
 
-###### DASHBOARD
-For easy visualization via charts and slicers:
-![2025-07-03 (2)](https://github.com/user-attachments/assets/b3c4d50d-8760-4895-b7dd-bab997c831b9)
 
 ### Limitations
 
