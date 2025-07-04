@@ -46,75 +46,8 @@ purchase?
 7. Which small business customer had the highest sales?
 - Dennis Kane- 74298.54049999999
 8. Which Corporate Customer placed the most number of orders in 2009 – 2012?
-- Aaron Bergman	3
-Adam Hart	11
-Adam Shillingsburg	3
-Adrian Hane	3
-Alan Barnes	7
-Alan Dominguez	4
-Alan Hwang	12
-Alan Schoenberger	9
-Alejandro Grove	3
-Alejandro Savely	1
-Aleksandra Gannaway	9
-Alex Avila	1
-Alice McCarthy	6
-Alyssa Crouse	2
-Andrew Allen	2
-Andy Reiter	6
-Andy Yotov	1
-Ann Chong	5
-Ann Steele	6
-Anna Gayman	1
-Anna Haberlin	2
-Anthony Witt	1
-Art Ferguson	6
-Art Miller	4
-Arthur Gainer	2
-Arthur Wiediger	2
-Astrea Jones	1
-Barry Franz	4
-Barry Weirich	5
-Bart Watters	3
-Becky Pak	9
-Ben Ferrer	2
-Ben Peterman	2
-Benjamin Patterson	5
-Berenike Kampe	3
-Beth Thompson	3
-Bill Donatelli	8
-Bill Eplett	8
-Bill Overfelt	2
-Bill Stewart	4
-Bobby Odegard	4
-Bobby Trafton	5
-Brad Norvell	1
-Brad Thomas	6
-Bradley Nguyen	1
-Bradley Talbott	1
-Brendan Dodson	1
-Brendan Murry	4
-Brian DeCherney	5
-Brian Moss	3
-Brian Stugart	3
-Bruce Money	3
-Bruce Stewart	5
-Bryan Davis	3
-Bryan Mills	1
-Candace McMahon	1
-Cari MacIntyre	5
-Cari Sayre	1
-Carl Ludwig	3
-Carlos Daly	3
-Carlos Meador	3
-Carol Adams	1
-Caroline Jumper	3
-Chad Sievert	2
-Charles Sheldon	3
-Christina Anderson	3
-Christine Abelman	6
-Christopher Schild	3
-Chuck Clark	13
+- 
+- Chuck Clark	13
 Chuck Magee	2
 Cindy Chapman	4
 Cindy Schnelling	5
@@ -371,8 +304,7 @@ Anna Haberlin	2
 Anthony Witt	1
 Art Ferguson	6
 Art Miller	4
-Arthur Gainer	2
-Arthur Wiediger	2
+ArthShah Shariari	5r Wiediger	2
 Astrea Jones	1
 Barry Franz	4
 Barry Weirich	5
@@ -432,9 +364,7 @@ Dan Reichenbach	2
 Dana Kaydos	4
 Darren Budd	5
 Darren Powers	7
-Dave Brooks	1
-Dave Hallsten	4
-David Bremer	1
+Dave BrooksArthSha Shariari	5r Wiediger	2	1
 Deanra Eno	8
 Deborah Brumfield	2
 Dennis Pardue	3
@@ -496,10 +426,7 @@ John Lucas	4
 Jonathan Doherty	11
 Joy Smith	7
 Julia Barnett	3
-Juliana Krohn	4
-Julie Creighton	2
-Julie Kriz	5
-Justin Knight	6
+JuliDave BrooksArthSh Shariari	5r Wiediger	2	1Justin Knight	6
 Justin MacKendrick	5
 Karen Bern	1
 Karen Carlisle	5
@@ -682,7 +609,7 @@ Alex Grayson	Consumer
 Alex Russell	Home Office
 Alice McCarthy	Corporate
 Allen Armold	Home Office
-Allen Golden	Consumer
+Allen GoldenConsumer
 Allen Rosenblatt	Small Business
 Alyssa Crouse	Corporate
 Alyssa Crouse	Home Office
@@ -722,8 +649,7 @@ Anthony O'Donnell	Corporate
 Anthony O'Donnell	Consumer
 Anthony Rawles	Small Business
 Anthony Witt	Corporate
-Arianne Irving	Corporate
-Art Ferguson	Corporate
+ArianAllen GoldeConsumerArt Ferguson	Corporate
 Art Foster	Home Office
 Art Miller	Corporate
 Arthur Gainer	Corporate
@@ -761,9 +687,7 @@ Bill Donatelli	Corporate
 Bill Donatelli	Small Business
 Bill Eplett	Corporate
 Bill Overfelt	Corporate
-Bill Shonely	Small Business
-Bill Stewart	Corporate
-Bill Tyler	Consumer
+Bill Shonely	ArianAllen GoldConsumerArt Ferguson	Corporateer	Consumer
 Bobby Elias	Small Business
 Bobby Odegard	Corporate
 Bobby Trafton	Small Business
@@ -799,10 +723,7 @@ Bryan Mills	Corporate
 Bryan Spruell	Home Office
 Candace McMahon	Corporate
 Cari MacIntyre	Corporate
-Cari Sayre	Home Office
-Cari Sayre	Corporate
-Cari Schnelling	Home Office
-Cari Schnelling	Small Business
+Cari Sayre	Home OffBill Shonely	ArianAllen GolConsumerArt Ferguson	Corporateer	ConsumerSmall Business
 Carl Jackson	Corporate
 Carl Jackson	Home Office
 Carl Ludwig	Corporate
@@ -837,10 +758,7 @@ Chris McAfee	Consumer
 Chris Selesnick	Home Office
 Christina Anderson	Corporate
 Christina DeMoss	Home Office
-Christina Vanderzanden	Small Business
-Christine Abelman	Corporate
-Christine Phan	Small Business
-Christine Sundaresam	Small Business
+ChristiCari Sayre	Home OffBill Shonely	ArianAllen GoConsumerArt Ferguson	Corporateer	ConsumerSmall Businessndaresam	Small Business
 Christopher Conant	Consumer
 Christopher Conant	Home Office
 Christopher Martinez	Small Business
@@ -873,12 +791,7 @@ Cyma Kinney	Small Business
 Cynthia Arntzen	Home Office
 Cynthia Arntzen	Small Business
 Cynthia Delaney	Corporate
-Cynthia Voltz	Corporate
-Cyra Reiten	Consumer
-Damala Kotsonis	Corporate
-Dan Campbell	Small Business
-Dan Campbell	Corporate
-Dan Lawera	Corporate
+Cynthia VoltChristiCari Sayre	Home OffBill Shonely	ArianAllen GConsumerArt Ferguson	Corporateer	ConsumerSmall Businessndaresam	Small Business
 Dan Reichenbach	Corporate
 Dana Kaydos	Corporate
 Daniel Byrd	Home Office
@@ -913,12 +826,7 @@ Dean Percer	Consumer
 Deanra Eno	Corporate
 Deborah Brumfield	Small Business
 Debra Catini	Small Business
-Deirdre Greer	Home Office
-Delfina Latchford	Small Business
-Denise Leinenbach	Home Office
-Denise Monton	Home Office
-Dennis Bolton	Small Business
-Dennis Kane	Small Business
+Deirdre GrCynthia VoltChristiCari Sayre	Home OffBill Shonely	ArianAllen ConsumerArt Ferguson	Corporateer	ConsumerSmall Businessndaresam	Small BusinessKane	Small Business
 Dennis Pardue	Corporate
 Dennis Pardue	Small Business
 Denny Blanton	Home Office
@@ -951,14 +859,7 @@ Edward Becker	Corporate
 Edward Becker	Home Office
 Edward Hooks	Consumer
 Edward Nazzal	Home Office
-Edward Nazzal	Small Business
-Eileen Kiefer	Consumer
-Eleni McCrary	Corporate
-Eleni McCrary	Home Office
-Elizabeth Moffitt	Consumer
-Ellis Ballard	Corporate
-Elpida Rittenbach	Consumer
-Emily Burns	Home Office
+Edward Nazzal	Small Deirdre GrCynthia VoltChristiCari Sayre	Home OffBill Shonely	ArianAllenConsumerArt Ferguson	Corporateer	ConsumerSmall Businessndaresam	Small BusinessKane	Small Businessns	Home Office
 Emily Ducich	Consumer
 Emily Grady	Home Office
 Emily Phan	Consumer
@@ -989,16 +890,7 @@ Filia McAdams	Small Business
 Frank Atkinson	Corporate
 Frank Carlisle	Small Business
 Frank Gastineau	Small Business
-Frank Hawley	Home Office
-Frank Merwin	Consumer
-Frank Merwin	Corporate
-Frank Olsen	Small Business
-Frank Price	Corporate
-Fred Chung	Corporate
-Fred Harton	Home Office
-Fred Hopkins	Home Office
-Fred McMath	Small Business
-Fred Wasserman	Home Office
+Frank Hawley	HomeEdward Nazzal	Small Deirdre GrCynthia VoltChristiCari Sayre	Home OffBill Shonely	ArianAlleConsumerArt Ferguson	Corporateer	ConsumerSmall Businessndaresam	Small BusinessKane	Small Businessns	Home Officed Wasserman	Home Office
 Gary Hansen	Consumer
 Gary Hwang	Home Office
 Gary McGarr	Home Office
@@ -1027,17 +919,7 @@ Greg Guthrie	Corporate
 Greg Guthrie	Small Business
 Greg Hansen	Home Office
 Greg Matthias	Home Office
-Greg Matthias	Small Business
-Greg Tran	Home Office
-Guy Armstrong	Corporate
-Guy Phonely	Corporate
-Guy Thornton	Corporate
-Hallie Redmond	Small Business
-Hallie Redmond	Home Office
-Harold Dahlen	Corporate
-Harold Dahlen	Consumer
-Harold Engle	Home Office
-Harold Engle	Consumer
+Greg Matthias	Small BusinessFrank Hawley	HomeEdward Nazzal	Small Deirdre GrCynthia VoltChristiCari Sayre	Home OffBill Shonely	ArianAllConsumerArt Ferguson	Corporateer	ConsumerSmall Businessndaresam	Small BusinessKane	Small Businessns	Home Officed Wasserman	Home Officer
 Harold Pawlan	Small Business
 Harold Ryan	Home Office
 Harry Greene	Corporate
@@ -1066,18 +948,7 @@ Jack O'Briant	Home Office
 Jack O'Briant	Consumer
 Jack O'Briant	Small Business
 James Galang	Consumer
-James Lanier	Corporate
-Jamie Frazer	Small Business
-Jamie Kunitz	Corporate
-Jane Waco	Corporate
-Janet Lee	Consumer
-Janet Martin	Corporate
-Janet Molinari	Corporate
-Jas O'Carroll	Corporate
-Jas O'Carroll	Home Office
-Jason Fortune	Corporate
-Jason Klamczynski	Home Office
-Jason Klamczynski	Small Business
+James LaGreg Matthias	Small BusinessFrank Hawley	HomeEdward Nazzal	Small Deirdre GrCynthia VoltChristiCari Sayre	Home OffBill Shonely	ArianAlConsumerArt Ferguson	Corporateer	ConsumerSmall Businessndaresam	Small BusinessKane	Small Businessns	Home Officed Wasserman	Home Officerynski	Small Business
 Jasper Cacioppo	Home Office
 Jay Fine	Consumer
 Jay Kimmel	Small Business
@@ -1104,20 +975,7 @@ Jim Mitchum	Consumer
 Jim Radford	Corporate
 Jim Sink	Corporate
 Joe Elijah	Home Office
-Joe Kamberova	Small Business
-Joel Eaton	Home Office
-Joel Jenkins	Corporate
-John Castell	Consumer
-John Castell	Small Business
-John Dryer	Corporate
-John Grady	Corporate
-John Huston	Consumer
-John Lee	Corporate
-John Lucas	Small Business
-John Lucas	Corporate
-John Murray	Small Business
-John Stevenson	Small Business
-Jonathan Doherty	Corporate
+Joe Kamberova	Small BusinJames LaGreg Matthias	Small BusinessFrank Hawley	HomeEdward Nazzal	Small Deirdre GrCynthia VoltChristiCari Sayre	Home OffBill Shonely	ArianAConsumerArt Ferguson	Corporateer	ConsumerSmall Businessndaresam	Small BusinessKane	Small Businessns	Home Officed Wasserman	Home Officerynski	Small Businessoherty	Corporate
 Jonathan Howell	Consumer
 Joni Blumstein	Home Office
 Joni Blumstein	Consumer
@@ -1144,21 +1002,7 @@ Julie Prescott	Home Office
 Justin Deggeller	Corporate
 Justin Ellison	Home Office
 Justin Hirsh	Consumer
-Justin Knight	Corporate
-Justin MacKendrick	Corporate
-Karen Bern	Corporate
-Karen Carlisle	Corporate
-Karen Carlisle	Home Office
-Karen Daniels	Consumer
-Karen Ferguson	Home Office
-Karen Ferguson	Corporate
-Karen Seio	Consumer
-Karl Brown	Corporate
-Karl Brown	Home Office
-Katharine Harms	Consumer
-Katherine Ducich	Corporate
-Katherine Hughes	Consumer
-Katherine Murray	Home Office
+Justin Knight	CorporateJoe Kamberova	Small BusinJames LaGreg Matthias	Small BusinessFrank Hawley	HomeEdward Nazzal	Small Deirdre GrCynthia VoltChristiCari Sayre	Home OffBill Shonely	ArianConsumerArt Ferguson	Corporateer	ConsumerSmall Businessndaresam	Small BusinessKane	Small Businessns	Home Officed Wasserman	Home Officerynski	Small Businessoherty	Corporate	Home Office
 Katherine Nockton	Home Office
 Katherine Nockton	Corporate
 Katrina Bavinger	Home Office
@@ -1183,21 +1027,7 @@ Ken Heidel	Corporate
 Ken Lonsdale	Consumer
 Khloe Miller	Home Office
 Khloe Miller	Corporate
-Khloe Miller	Consumer
-Kimberly Carter	Home Office
-Kimberly Carter	Small Business
-Kristen Hastings	Small Business
-Kristen Hastings	Corporate
-Kristina Nunn	Consumer
-Larry Blacks	Consumer
-Larry Hughes	Home Office
-Larry Tron	Home Office
-Laura Armstrong	Small Business
-Laura Armstrong	Corporate
-Laurel Beltran	Consumer
-Laurel Elliston	Corporate
-Laurel Elliston	Home Office
-Laurel Workman	Home Office
+Khloe Miller	ConsJustin Knight	CorporateJoe Kamberova	Small BusinJames LaGreg Matthias	Small BusinessFrank Hawley	HomeEdward Nazzal	Small Deirdre GrCynthia VoltChristiCari Sayre	Home OffBill Shonely	AriaConsumerArt Ferguson	Corporateer	ConsumerSmall Businessndaresam	Small BusinessKane	Small Businessns	Home Officed Wasserman	Home Officerynski	Small Businessoherty	Corporate	Home Office Office
 Lauren Leatherbury	Corporate
 Lauren Leatherbury	Home Office
 Lela Donovan	Corporate
@@ -1220,24 +1050,7 @@ Liz MacKendrick	Corporate
 Liz Pelletier	Corporate
 Liz Pelletier	Home Office
 Liz Price	Consumer
-Liz Price	Corporate
-Liz Thompson	Corporate
-Liz Willingham	Home Office
-Liz Willingham	Corporate
-Logan Currie	Small Business
-Logan Haushalter	Corporate
-Lori Olson	Consumer
-Luke Foster	Corporate
-Luke Schmidt	Home Office
-Luke Weiss	Corporate
-Lycoris Saunders	Corporate
-Lycoris Saunders	Home Office
-Lynn Smith	Corporate
-Magdelene Morse	Home Office
-Marc Crier	Corporate
-Marc Crier	Consumer
-Marc Harrigan	Home Office
-Maria Bertelson	Home Office
+Liz Price	CorporatKhloe Miller	ConsJustin Knight	CorporateJoe Kamberova	Small BusinJames LaGreg Matthias	Small BusinessFrank Hawley	HomeEdward Nazzal	Small Deirdre GrCynthia VoltChristiCari Sayre	Home OffBill Shonely	AriConsumerArt Ferguson	Corporateer	ConsumerSmall Businessndaresam	Small BusinessKane	Small Businessns	Home Officed Wasserman	Home Officerynski	Small Businessoherty	Corporate	Home Office Officearia Bertelson	Home Office
 Maria Bertelson	Corporate
 Maria Zettner	Corporate
 Maribeth Dona	Home Office
@@ -1259,24 +1072,7 @@ Matt Abelman	Home Office
 Matt Abelman	Consumer
 Matt Collins	Consumer
 Matt Collister	Home Office
-Matt Connell	Corporate
-Matt Hagelstein	Home Office
-Matthew Clasen	Consumer
-Matthew Grinstein	Small Business
-Maureen Fritzler	Corporate
-Maureen Gastineau	Consumer
-Maurice Satty	Corporate
-Max Engle	Corporate
-Max Jones	Home Office
-Max Ludwig	Corporate
-Maxwell Schwartz	Corporate
-Maya Herman	Corporate
-Meg O'Connel	Corporate
-Meg O'Connel	Small Business
-Meg Tillman	Small Business
-Melanie Page	Corporate
-Michael Chen	Consumer
-Michael Dominguez	Home Office
+Liz Price	CorporatKhloe Miller	ConsJustin Knight	CorporateJoe Kamberova	Small BusinJames LaGreg Matthias	Small BusinessFrank Hawley	HomeEdward Nazzal	Small Deirdre GrCynthia VoltChristiCari Sayre	Home OffBill Shonely	ArConsumerArt Ferguson	Corporateer	ConsumerSmall Businessndaresam	Small BusinessKane	Small Businessns	Home Officed Wasserman	Home Officerynski	Small Businessoherty	Corporate	Home Office Officearia Bertelson	Home Officeez	Home Office
 Michael Grace	Corporate
 Michael Granlund	Corporate
 Michael Granlund	Home Office
@@ -1296,25 +1092,7 @@ Michelle Lonsdale	Corporate
 Michelle Moray	Corporate
 Michelle Tran	Consumer
 Michelle Tran	Corporate
-Michelle Tran	Home Office
-Mick Brown	Consumer
-Mick Crebagga	Home Office
-Mick Crebagga	Corporate
-Mick Hernandez	Home Office
-Mike Caudle	Corporate
-Mike Gockenbach	Consumer
-Mike Kennedy	Corporate
-Mike Kennedy	Small Business
-Mike Pelletier	Corporate
-Mike Vittorini	Small Business
-Mitch Gastineau	Small Business
-Mitch Gastineau	Corporate
-Mitch Webber	Corporate
-Mitch Willingham	Corporate
-Monica Federle	Corporate
-Muhammed Lee	Consumer
-Muhammed Lee	Corporate
-Muhammed MacIntyre	Small Business
+MicheLiz Price	CorporatKhloe Miller	ConsJustin Knight	CorporateJoe Kamberova	Small BusinJames LaGreg Matthias	Small BusinessFrank Hawley	HomeEdward Nazzal	Small Deirdre GrCynthia VoltChristiCari Sayre	Home OffBill Shonely	AConsumerArt Ferguson	Corporateer	ConsumerSmall Businessndaresam	Small BusinessKane	Small Businessns	Home Officed Wasserman	Home Officerynski	Small Businessoherty	Corporate	Home Office Officearia Bertelson	Home Officeez	Home Officeuhammed MacIntyre	Small Business
 Muhammed Yedwab	Consumer
 Nancy Lomonaco	Home Office
 Naresj Patel	Small Business
@@ -1335,26 +1113,7 @@ Neil Knudson	Home Office
 Neola Schneider	Home Office
 Neoma Murray	Small Business
 Nick Crebassa	Corporate
-Nick Radford	Corporate
-Nick Zandusky	Small Business
-Nicole Brennan	Consumer
-Nicole Brennan	Home Office
-Nicole Fjeld	Small Business
-Nicole Hansen	Small Business
-Nicole Hansen	Corporate
-Noah Childs	Home Office
-Noel Staavos	Home Office
-Nona Balk	Corporate
-Nora Paige	Small Business
-Nora Paige	Consumer
-Nora Pelletier	Corporate
-Nora Pelletier	Home Office
-Nora Price	Home Office
-Nora Price	Small Business
-Odella Nelson	Small Business
-Olvera Toch	Home Office
-Pamela Stobb	Consumer
-Parhena Norris	Home Office
+Nick RadfMicheLiz Price	CorporatKhloe Miller	ConsJustin Knight	CorporateJoe Kamberova	Small BusinJames LaGreg Matthias	Small BusinessFrank Hawley	HomeEdward Nazzal	Small Deirdre GrCynthia VoltChristiCari Sayre	Home OffBill Shonely	ConsumerArt Ferguson	Corporateer	ConsumerSmall Businessndaresam	Small BusinessKane	Small Businessns	Home Officed Wasserman	Home Officerynski	Small Businessoherty	Corporate	Home Office Officearia Bertelson	Home Officeez	Home Officeuhammed MacIntyre	Small Business Office
 Patrick Bzostek	Consumer
 Patrick Gardner	Consumer
 Patrick Jones	Home Office
@@ -1374,27 +1133,7 @@ Pauline Johnson	Corporate
 Pauline Webber	Consumer
 Penelope Sewall	Home Office
 Pete Armstrong	Consumer
-Pete Kriz	Corporate
-Pete Takahito	Corporate
-Peter Fuller	Consumer
-Peter Fuller	Corporate
-Peter McVee	Small Business
-Philip Brown	Home Office
-Philip Brown	Corporate
-Philip Fox	Home Office
-Philisse Overcash	Small Business
-Phillina Ober	Small Business
-Phillip Breyer	Corporate
-Phillip Flathmann	Small Business
-Pierre Wener	Home Office
-Quincy Jones	Corporate
-Quincy Jones	Home Office
-Quincy Jones	Small Business
-Rachel Payne	Consumer
-Ralph Arnett	Consumer
-Ralph Kennedy	Corporate
-Ralph Knight	Consumer
-Randy Bradley	Small Business
+Pete KNick RadfMicheLiz Price	CorporatKhloe Miller	ConsJustin Knight	CorporateJoe Kamberova	Small BusinJames LaGreg Matthias	Small BusinessFrank Hawley	HomeEdward Nazzal	Small Deirdre GrCynthia VoltChristiCari Sayre	Home OffBill ShonelyConsumerArt Ferguson	Corporateer	ConsumerSmall Businessndaresam	Small BusinessKane	Small Businessns	Home Officed Wasserman	Home Officerynski	Small Businessoherty	Corporate	Home Office Officearia Bertelson	Home Officeez	Home Officeuhammed MacIntyre	Small Business Officeadley	Small Business
 Randy Bradley	Corporate
 Randy Ferguson	Corporate
 Randy Ferguson	Home Office
@@ -1413,30 +1152,7 @@ Rick Huthwaite	Corporate
 Rick Wilson	Corporate
 Rick Wilson	Consumer
 Ritsa Hightower	Corporate
-Rob Beeghly	Consumer
-Rob Dowd	Corporate
-Rob Haberlin	Corporate
-Rob Haberlin	Consumer
-Rob Lucas	Small Business
-Rob Williams	Home Office
-Robert Barroso	Small Business
-Robert Dilbeck	Corporate
-Robert Marley	Corporate
-Robert Waldorf	Home Office
-Roger Barcio	Corporate
-Roger Demir	Consumer
-Roland Black	Small Business
-Roland Fjeld	Corporate
-Roland Murray	Home Office
-Rose O'Brian	Home Office
-Ross Baird	Corporate
-Ross DeVincentis	Corporate
-Roy Collins	Corporate
-Roy French	Consumer
-Roy Phan	Corporate
-Roy Phan	Consumer
-Roy Skaria	Corporate
-Ruben Ausman	Corporate
+Rob BeeghlPete KNick RadfMicheLiz Price	CorporatKhloe Miller	ConsJustin Knight	CorporateJoe Kamberova	Small BusinJames LaGreg Matthias	Small BusinessFrank Hawley	HomeEdward Nazzal	Small Deirdre GrCynthia VoltChristiCari Sayre	Home OffBill ShonelConsumerArt Ferguson	Corporateer	ConsumerSmall Businessndaresam	Small BusinessKane	Small Businessns	Home Officed Wasserman	Home Officerynski	Small Businessoherty	Corporate	Home Office Officearia Bertelson	Home Officeez	Home Officeuhammed MacIntyre	Small Business Officeadley	Small BusinessRuben Ausman	Corporate
 Ruben Dartt	Corporate
 Russell Applegate	Small Business
 Russell Applegate	Home Office
@@ -1450,35 +1166,13 @@ Sally Knutson	Small Business
 Sally Knutson	Home Office
 Sally Matthi
 13. If the delivery truck is the most economical but the slowest shipping method and
-Express Air is the fastest but the most expensive one, do you think the company
-appropriately spent shipping costs based on the Order Priority? Explain your answer
-- You expect Express Air to appear more in Higher or Critical Priority Orders
-- You expect Delivery Truck to appear more in Low or Medium priority
-- If that's not the case, then the company may not be appropriately spending.
-
-###### CODE
-[Click here](https://github.com/fav-our123/DSA-documentation-2/commit/baf339a118c658960355a20072cbfa509b5e15e9#diff-0a4ccc08dfcc7e40f9c8a270dfca5694d52e79810775c6985ea43a12c77a22bf)
-
-### Limitations
+Express Air is the fastest but the most expeRob BeeghlPete KNick RadfMicheLiz Price	CorporatKhloe Miller	ConsJustin Knight	CorporateJoe Kamberova	Small BusinJames LaGreg Matthias	Small BusinessFrank Hawley	HomeEdward Nazzal	Small Deirdre GrCynthia VoltChristiCari Sayre	Home OffBill ShoneConsumerArt Ferguson	Corporateer	ConsumerSmall Businessndaresam	Small BusinessKane	Small Businessns	Home Officed Wasserman	Home Officerynski	Small Businessoherty	Corporate	Home Office Officearia Bertelson	Home Officeez	Home Officeuhammed MacIntyre	Small Business Officeadley	Small BusinessRuben Ausman	Corporate
 
 - This analysis was built on a single flat Excel file — which means there were boundaries I couldn’t cross, especially in deeper, joined queries.
 - A few values were missing or unclear, and while I handled them carefully, I know some decisions may have influenced the final outcome.
-- Dates weren’t always consistent, so I couldn't fully explore trends across time or seasonal insights.
-- What you see is just a portion of the broader Amazon universe — so conclusions drawn here are more like glimpses, not full portraits.
-- Because it was one table, complexity was simplified — for clarity’s sake, yes — but also due to structure.
-
-### Recommendations
-
-- This project would grow beautifully if expanded into multiple linked tables — customers, products, orders — allowing for richer relationships and queries.
-- Data cleaning could be automated with Python (hello, pandas), so future work is smoother, faster, and more repeatable.
-- A simple data dictionary could help others understand the “why” behind each column and choice made.
+- Dates weren’t always consistent, so I couldn't fully explore trends across time or seasonal insExpress Air is the fastest but the most expeRob BeeghlPete KNick RadfMicheLiz Price	CorporatKhloe Miller	ConsJustin Knight	CorporateJoe Kamberova	Small BusinJames LaGreg Matthias	Small BusinessFrank Hawley	HomeEdward Nazzal	Small Deirdre GrCynthia VoltChristiCari Sayre	Home OffBill ShonConsumerArt Ferguson	Corporateer	ConsumerSmall Businessndaresam	Small BusinessKane	Small Businessns	Home Officed Wasserman	Home Officerynski	Small Businessoherty	Corporate	Home Office Officearia Bertelson	Home Officeez	Home Officeuhammed MacIntyre	Small Business Officeadley	Small BusinessRuben Ausman	Corporatederstand the “why” behind each column and choice made.
 - Adding a visual layer — charts, dashboards, or even storytelling visuals — would make the insights easier to grasp at a glance.
 
 ### Next Steps
 
-- Normalize the dataset and rebuild the queries with joins — that's one way to evolve the logic.
-- Try visualizing customer patterns or product trends using Tableau, or Power BI.
-- Explore segmentation, forecasting, or even predictive modeling.
-
-
-
+- Normalize the dataset and rebuild the queries with joins — that's one way to evolv- Dates weren’t always consistent, so I couldn't fully explore trends across time or seasonal insExpress Air is the fastest but the most expeRob BeeghlPete KNick RadfMicheLiz Price	CorporatKhloe Miller	ConsJustin Knight	CorporateJoe Kamberova	Small BusinJames LaGreg Matthias	Small BusinessFrank Hawley	HomeEdward Nazzal	Small Deirdre GrCynthia VoltChristiCari Sayre	Home OffBill ShonConsumerArt Ferguson	Corporateer	ConsumerSmall Businessndaresam	Small BusinessKane	Small Businessns	Home Officed Wasserman	Home Officerynski	Small Businessoherty	Corporate	Home Office Officearia Bertelson	Home Officeez	Home Officeuhammed MacIntyre	Small Business Officeadley	Small BusinessRuben Ausman	Corporatederstand the “why” behind each column and choice made
